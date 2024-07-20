@@ -3,9 +3,12 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
  
 ## FSD+Next.js 
 If you want to create a clean repository for FSD development using Next.js App Router, you can clone the repository to yourself and enjoy
+
+
 First, run the development server:
 
 ```bash
+npm i
 npm run dev
 # or
 yarn dev
